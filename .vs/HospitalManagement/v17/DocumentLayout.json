@@ -1,0 +1,919 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jadha\\Downloads\\HospitalManagement1\\HospitalManagement\\HospitalManagement\\",
+  "Documents": [
+    {
+<<<<<<< HEAD
+      "AbsoluteMoniker": "D:0:0:{0DC745B5-2B66-4D20-905B-D83EFB140A00}|HospitalManagement\\HospitalManagement.csproj|c:\\users\\jadha\\downloads\\hospitalmanagement1\\hospitalmanagement\\hospitalmanagement\\hospitalmanagement\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC745B5-2B66-4D20-905B-D83EFB140A00}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31134A62-EE1F-45D4-9E0F-D429364896C5}|Hospital.Core\\Hospital.Core.csproj|c:\\users\\jadha\\downloads\\hospitalmanagement1\\hospitalmanagement\\hospitalmanagement\\hospital.core\\service\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31134A62-EE1F-45D4-9E0F-D429364896C5}|Hospital.Core\\Hospital.Core.csproj|solutionrelative:hospital.core\\service\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8970ED-6453-49D4-A4C2-B9F84DF19732}|Hospital.Model\\Hospital.Model.csproj|c:\\users\\jadha\\downloads\\hospitalmanagement1\\hospitalmanagement\\hospitalmanagement\\hospital.model\\sql_script\\sqlquery15.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{6A8970ED-6453-49D4-A4C2-B9F84DF19732}|Hospital.Model\\Hospital.Model.csproj|solutionrelative:hospital.model\\sql_script\\sqlquery15.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31134A62-EE1F-45D4-9E0F-D429364896C5}|Hospital.Core\\Hospital.Core.csproj|c:\\users\\jadha\\downloads\\hospitalmanagement1\\hospitalmanagement\\hospitalmanagement\\hospital.core\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31134A62-EE1F-45D4-9E0F-D429364896C5}|Hospital.Core\\Hospital.Core.csproj|solutionrelative:hospital.core\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31134A62-EE1F-45D4-9E0F-D429364896C5}|Hospital.Core\\Hospital.Core.csproj|c:\\users\\jadha\\downloads\\hospitalmanagement1\\hospitalmanagement\\hospitalmanagement\\hospital.core\\service\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31134A62-EE1F-45D4-9E0F-D429364896C5}|Hospital.Core\\Hospital.Core.csproj|solutionrelative:hospital.core\\service\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31134A62-EE1F-45D4-9E0F-D429364896C5}|Hospital.Core\\Hospital.Core.csproj|c:\\users\\jadha\\downloads\\hospitalmanagement1\\hospitalmanagement\\hospitalmanagement\\hospital.core\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31134A62-EE1F-45D4-9E0F-D429364896C5}|Hospital.Core\\Hospital.Core.csproj|solutionrelative:hospital.core\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31134A62-EE1F-45D4-9E0F-D429364896C5}|Hospital.Core\\Hospital.Core.csproj|c:\\users\\jadha\\downloads\\hospitalmanagement1\\hospitalmanagement\\hospitalmanagement\\hospital.core\\service\\ireportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31134A62-EE1F-45D4-9E0F-D429364896C5}|Hospital.Core\\Hospital.Core.csproj|solutionrelative:hospital.core\\service\\ireportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31134A62-EE1F-45D4-9E0F-D429364896C5}|Hospital.Core\\Hospital.Core.csproj|c:\\users\\jadha\\downloads\\hospitalmanagement1\\hospitalmanagement\\hospitalmanagement\\hospital.core\\service\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31134A62-EE1F-45D4-9E0F-D429364896C5}|Hospital.Core\\Hospital.Core.csproj|solutionrelative:hospital.core\\service\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31134A62-EE1F-45D4-9E0F-D429364896C5}|Hospital.Core\\Hospital.Core.csproj|c:\\users\\jadha\\downloads\\hospitalmanagement1\\hospitalmanagement\\hospitalmanagement\\hospital.core\\service\\ihospitalmodalityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31134A62-EE1F-45D4-9E0F-D429364896C5}|Hospital.Core\\Hospital.Core.csproj|solutionrelative:hospital.core\\service\\ihospitalmodalityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31134A62-EE1F-45D4-9E0F-D429364896C5}|Hospital.Core\\Hospital.Core.csproj|c:\\users\\jadha\\downloads\\hospitalmanagement1\\hospitalmanagement\\hospitalmanagement\\hospital.core\\service\\hospitalmodalityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31134A62-EE1F-45D4-9E0F-D429364896C5}|Hospital.Core\\Hospital.Core.csproj|solutionrelative:hospital.core\\service\\hospitalmodalityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC745B5-2B66-4D20-905B-D83EFB140A00}|HospitalManagement\\HospitalManagement.csproj|c:\\users\\jadha\\downloads\\hospitalmanagement1\\hospitalmanagement\\hospitalmanagement\\hospitalmanagement\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC745B5-2B66-4D20-905B-D83EFB140A00}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC745B5-2B66-4D20-905B-D83EFB140A00}|HospitalManagement\\HospitalManagement.csproj|c:\\users\\jadha\\downloads\\hospitalmanagement1\\hospitalmanagement\\hospitalmanagement\\hospitalmanagement\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC745B5-2B66-4D20-905B-D83EFB140A00}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC745B5-2B66-4D20-905B-D83EFB140A00}|HospitalManagement\\HospitalManagement.csproj|c:\\users\\jadha\\downloads\\hospitalmanagement1\\hospitalmanagement\\hospitalmanagement\\hospitalmanagement\\controllers\\hospitalmodalitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC745B5-2B66-4D20-905B-D83EFB140A00}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\controllers\\hospitalmodalitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC745B5-2B66-4D20-905B-D83EFB140A00}|HospitalManagement\\HospitalManagement.csproj|c:\\users\\jadha\\downloads\\hospitalmanagement1\\hospitalmanagement\\hospitalmanagement\\hospitalmanagement\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC745B5-2B66-4D20-905B-D83EFB140A00}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8970ED-6453-49D4-A4C2-B9F84DF19732}|Hospital.Model\\Hospital.Model.csproj|c:\\users\\jadha\\downloads\\hospitalmanagement1\\hospitalmanagement\\hospitalmanagement\\hospital.model\\dto\\createpatientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A8970ED-6453-49D4-A4C2-B9F84DF19732}|Hospital.Model\\Hospital.Model.csproj|solutionrelative:hospital.model\\dto\\createpatientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8970ED-6453-49D4-A4C2-B9F84DF19732}|Hospital.Model\\Hospital.Model.csproj|c:\\users\\jadha\\downloads\\hospitalmanagement1\\hospitalmanagement\\hospitalmanagement\\hospital.model\\dto\\patientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A8970ED-6453-49D4-A4C2-B9F84DF19732}|Hospital.Model\\Hospital.Model.csproj|solutionrelative:hospital.model\\dto\\patientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8970ED-6453-49D4-A4C2-B9F84DF19732}|Hospital.Model\\Hospital.Model.csproj|c:\\users\\jadha\\downloads\\hospitalmanagement1\\hospitalmanagement\\hospitalmanagement\\hospital.model\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A8970ED-6453-49D4-A4C2-B9F84DF19732}|Hospital.Model\\Hospital.Model.csproj|solutionrelative:hospital.model\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8970ED-6453-49D4-A4C2-B9F84DF19732}|Hospital.Model\\Hospital.Model.csproj|c:\\users\\jadha\\downloads\\hospitalmanagement1\\hospitalmanagement\\hospitalmanagement\\hospital.model\\model\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A8970ED-6453-49D4-A4C2-B9F84DF19732}|Hospital.Model\\Hospital.Model.csproj|solutionrelative:hospital.model\\model\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8970ED-6453-49D4-A4C2-B9F84DF19732}|Hospital.Model\\Hospital.Model.csproj|c:\\users\\jadha\\downloads\\hospitalmanagement1\\hospitalmanagement\\hospitalmanagement\\hospital.model\\model\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A8970ED-6453-49D4-A4C2-B9F84DF19732}|Hospital.Model\\Hospital.Model.csproj|solutionrelative:hospital.model\\model\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8970ED-6453-49D4-A4C2-B9F84DF19732}|Hospital.Model\\Hospital.Model.csproj|c:\\users\\jadha\\downloads\\hospitalmanagement1\\hospitalmanagement\\hospitalmanagement\\hospital.model\\dto\\reportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A8970ED-6453-49D4-A4C2-B9F84DF19732}|Hospital.Model\\Hospital.Model.csproj|solutionrelative:hospital.model\\dto\\reportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC745B5-2B66-4D20-905B-D83EFB140A00}|HospitalManagement\\HospitalManagement.csproj|c:\\users\\jadha\\downloads\\hospitalmanagement1\\hospitalmanagement\\hospitalmanagement\\hospitalmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC745B5-2B66-4D20-905B-D83EFB140A00}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8970ED-6453-49D4-A4C2-B9F84DF19732}|Hospital.Model\\Hospital.Model.csproj|c:\\users\\jadha\\downloads\\hospitalmanagement1\\hospitalmanagement\\hospitalmanagement\\hospital.model\\dto\\hospitaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A8970ED-6453-49D4-A4C2-B9F84DF19732}|Hospital.Model\\Hospital.Model.csproj|solutionrelative:hospital.model\\dto\\hospitaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8970ED-6453-49D4-A4C2-B9F84DF19732}|Hospital.Model\\Hospital.Model.csproj|c:\\users\\jadha\\downloads\\hospitalmanagement1\\hospitalmanagement\\hospitalmanagement\\hospital.model\\hospital.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6A8970ED-6453-49D4-A4C2-B9F84DF19732}|Hospital.Model\\Hospital.Model.csproj|solutionrelative:hospital.model\\hospital.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31134A62-EE1F-45D4-9E0F-D429364896C5}|Hospital.Core\\Hospital.Core.csproj|c:\\users\\jadha\\downloads\\hospitalmanagement1\\hospitalmanagement\\hospitalmanagement\\hospital.core\\hospital.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{31134A62-EE1F-45D4-9E0F-D429364896C5}|Hospital.Core\\Hospital.Core.csproj|solutionrelative:hospital.core\\hospital.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC745B5-2B66-4D20-905B-D83EFB140A00}|HospitalManagement\\HospitalManagement.csproj|c:\\users\\jadha\\downloads\\hospitalmanagement1\\hospitalmanagement\\hospitalmanagement\\hospitalmanagement\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC745B5-2B66-4D20-905B-D83EFB140A00}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31134A62-EE1F-45D4-9E0F-D429364896C5}|Hospital.Core\\Hospital.Core.csproj|c:\\users\\jadha\\downloads\\hospitalmanagement1\\hospitalmanagement\\hospitalmanagement\\hospital.core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31134A62-EE1F-45D4-9E0F-D429364896C5}|Hospital.Core\\Hospital.Core.csproj|solutionrelative:hospital.core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC745B5-2B66-4D20-905B-D83EFB140A00}|HospitalManagement\\HospitalManagement.csproj|c:\\users\\jadha\\downloads\\hospitalmanagement1\\hospitalmanagement\\hospitalmanagement\\hospitalmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0DC745B5-2B66-4D20-905B-D83EFB140A00}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8970ED-6453-49D4-A4C2-B9F84DF19732}|Hospital.Model\\Hospital.Model.csproj|c:\\users\\jadha\\downloads\\hospitalmanagement1\\hospitalmanagement\\hospitalmanagement\\hospital.model\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A8970ED-6453-49D4-A4C2-B9F84DF19732}|Hospital.Model\\Hospital.Model.csproj|solutionrelative:hospital.model\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8970ED-6453-49D4-A4C2-B9F84DF19732}|Hospital.Model\\Hospital.Model.csproj|c:\\users\\jadha\\downloads\\hospitalmanagement1\\hospitalmanagement\\hospitalmanagement\\hospital.model\\sql_script\\sqlquery15.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+=======
+      "AbsoluteMoniker": "D:0:0:{6A8970ED-6453-49D4-A4C2-B9F84DF19732}|Hospital.Model\\Hospital.Model.csproj|c:\\users\\jadha\\downloads\\hospitalmanagement\\hospitalmanagement\\hospital.model\\sql_script\\sqlquery15.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{6A8970ED-6453-49D4-A4C2-B9F84DF19732}|Hospital.Model\\Hospital.Model.csproj|solutionrelative:hospital.model\\sql_script\\sqlquery15.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31134A62-EE1F-45D4-9E0F-D429364896C5}|Hospital.Core\\Hospital.Core.csproj|c:\\users\\jadha\\downloads\\hospitalmanagement\\hospitalmanagement\\hospital.core\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31134A62-EE1F-45D4-9E0F-D429364896C5}|Hospital.Core\\Hospital.Core.csproj|solutionrelative:hospital.core\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31134A62-EE1F-45D4-9E0F-D429364896C5}|Hospital.Core\\Hospital.Core.csproj|c:\\users\\jadha\\downloads\\hospitalmanagement\\hospitalmanagement\\hospital.core\\service\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31134A62-EE1F-45D4-9E0F-D429364896C5}|Hospital.Core\\Hospital.Core.csproj|solutionrelative:hospital.core\\service\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31134A62-EE1F-45D4-9E0F-D429364896C5}|Hospital.Core\\Hospital.Core.csproj|c:\\users\\jadha\\downloads\\hospitalmanagement\\hospitalmanagement\\hospital.core\\service\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31134A62-EE1F-45D4-9E0F-D429364896C5}|Hospital.Core\\Hospital.Core.csproj|solutionrelative:hospital.core\\service\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31134A62-EE1F-45D4-9E0F-D429364896C5}|Hospital.Core\\Hospital.Core.csproj|c:\\users\\jadha\\downloads\\hospitalmanagement\\hospitalmanagement\\hospital.core\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31134A62-EE1F-45D4-9E0F-D429364896C5}|Hospital.Core\\Hospital.Core.csproj|solutionrelative:hospital.core\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31134A62-EE1F-45D4-9E0F-D429364896C5}|Hospital.Core\\Hospital.Core.csproj|c:\\users\\jadha\\downloads\\hospitalmanagement\\hospitalmanagement\\hospital.core\\service\\ireportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31134A62-EE1F-45D4-9E0F-D429364896C5}|Hospital.Core\\Hospital.Core.csproj|solutionrelative:hospital.core\\service\\ireportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31134A62-EE1F-45D4-9E0F-D429364896C5}|Hospital.Core\\Hospital.Core.csproj|c:\\users\\jadha\\downloads\\hospitalmanagement\\hospitalmanagement\\hospital.core\\service\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31134A62-EE1F-45D4-9E0F-D429364896C5}|Hospital.Core\\Hospital.Core.csproj|solutionrelative:hospital.core\\service\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31134A62-EE1F-45D4-9E0F-D429364896C5}|Hospital.Core\\Hospital.Core.csproj|c:\\users\\jadha\\downloads\\hospitalmanagement\\hospitalmanagement\\hospital.core\\service\\ihospitalmodalityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31134A62-EE1F-45D4-9E0F-D429364896C5}|Hospital.Core\\Hospital.Core.csproj|solutionrelative:hospital.core\\service\\ihospitalmodalityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31134A62-EE1F-45D4-9E0F-D429364896C5}|Hospital.Core\\Hospital.Core.csproj|c:\\users\\jadha\\downloads\\hospitalmanagement\\hospitalmanagement\\hospital.core\\service\\hospitalmodalityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31134A62-EE1F-45D4-9E0F-D429364896C5}|Hospital.Core\\Hospital.Core.csproj|solutionrelative:hospital.core\\service\\hospitalmodalityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC745B5-2B66-4D20-905B-D83EFB140A00}|HospitalManagement\\HospitalManagement.csproj|c:\\users\\jadha\\downloads\\hospitalmanagement\\hospitalmanagement\\hospitalmanagement\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC745B5-2B66-4D20-905B-D83EFB140A00}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC745B5-2B66-4D20-905B-D83EFB140A00}|HospitalManagement\\HospitalManagement.csproj|c:\\users\\jadha\\downloads\\hospitalmanagement\\hospitalmanagement\\hospitalmanagement\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC745B5-2B66-4D20-905B-D83EFB140A00}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC745B5-2B66-4D20-905B-D83EFB140A00}|HospitalManagement\\HospitalManagement.csproj|c:\\users\\jadha\\downloads\\hospitalmanagement\\hospitalmanagement\\hospitalmanagement\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC745B5-2B66-4D20-905B-D83EFB140A00}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC745B5-2B66-4D20-905B-D83EFB140A00}|HospitalManagement\\HospitalManagement.csproj|c:\\users\\jadha\\downloads\\hospitalmanagement\\hospitalmanagement\\hospitalmanagement\\controllers\\hospitalmodalitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC745B5-2B66-4D20-905B-D83EFB140A00}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\controllers\\hospitalmodalitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC745B5-2B66-4D20-905B-D83EFB140A00}|HospitalManagement\\HospitalManagement.csproj|c:\\users\\jadha\\downloads\\hospitalmanagement\\hospitalmanagement\\hospitalmanagement\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC745B5-2B66-4D20-905B-D83EFB140A00}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8970ED-6453-49D4-A4C2-B9F84DF19732}|Hospital.Model\\Hospital.Model.csproj|c:\\users\\jadha\\downloads\\hospitalmanagement\\hospitalmanagement\\hospital.model\\dto\\createpatientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A8970ED-6453-49D4-A4C2-B9F84DF19732}|Hospital.Model\\Hospital.Model.csproj|solutionrelative:hospital.model\\dto\\createpatientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8970ED-6453-49D4-A4C2-B9F84DF19732}|Hospital.Model\\Hospital.Model.csproj|c:\\users\\jadha\\downloads\\hospitalmanagement\\hospitalmanagement\\hospital.model\\dto\\patientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A8970ED-6453-49D4-A4C2-B9F84DF19732}|Hospital.Model\\Hospital.Model.csproj|solutionrelative:hospital.model\\dto\\patientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8970ED-6453-49D4-A4C2-B9F84DF19732}|Hospital.Model\\Hospital.Model.csproj|c:\\users\\jadha\\downloads\\hospitalmanagement\\hospitalmanagement\\hospital.model\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A8970ED-6453-49D4-A4C2-B9F84DF19732}|Hospital.Model\\Hospital.Model.csproj|solutionrelative:hospital.model\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8970ED-6453-49D4-A4C2-B9F84DF19732}|Hospital.Model\\Hospital.Model.csproj|c:\\users\\jadha\\downloads\\hospitalmanagement\\hospitalmanagement\\hospital.model\\model\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A8970ED-6453-49D4-A4C2-B9F84DF19732}|Hospital.Model\\Hospital.Model.csproj|solutionrelative:hospital.model\\model\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8970ED-6453-49D4-A4C2-B9F84DF19732}|Hospital.Model\\Hospital.Model.csproj|c:\\users\\jadha\\downloads\\hospitalmanagement\\hospitalmanagement\\hospital.model\\model\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A8970ED-6453-49D4-A4C2-B9F84DF19732}|Hospital.Model\\Hospital.Model.csproj|solutionrelative:hospital.model\\model\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8970ED-6453-49D4-A4C2-B9F84DF19732}|Hospital.Model\\Hospital.Model.csproj|c:\\users\\jadha\\downloads\\hospitalmanagement\\hospitalmanagement\\hospital.model\\dto\\reportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A8970ED-6453-49D4-A4C2-B9F84DF19732}|Hospital.Model\\Hospital.Model.csproj|solutionrelative:hospital.model\\dto\\reportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC745B5-2B66-4D20-905B-D83EFB140A00}|HospitalManagement\\HospitalManagement.csproj|c:\\users\\jadha\\downloads\\hospitalmanagement\\hospitalmanagement\\hospitalmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC745B5-2B66-4D20-905B-D83EFB140A00}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8970ED-6453-49D4-A4C2-B9F84DF19732}|Hospital.Model\\Hospital.Model.csproj|c:\\users\\jadha\\downloads\\hospitalmanagement\\hospitalmanagement\\hospital.model\\dto\\hospitaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A8970ED-6453-49D4-A4C2-B9F84DF19732}|Hospital.Model\\Hospital.Model.csproj|solutionrelative:hospital.model\\dto\\hospitaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8970ED-6453-49D4-A4C2-B9F84DF19732}|Hospital.Model\\Hospital.Model.csproj|c:\\users\\jadha\\downloads\\hospitalmanagement\\hospitalmanagement\\hospital.model\\hospital.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6A8970ED-6453-49D4-A4C2-B9F84DF19732}|Hospital.Model\\Hospital.Model.csproj|solutionrelative:hospital.model\\hospital.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31134A62-EE1F-45D4-9E0F-D429364896C5}|Hospital.Core\\Hospital.Core.csproj|c:\\users\\jadha\\downloads\\hospitalmanagement\\hospitalmanagement\\hospital.core\\hospital.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{31134A62-EE1F-45D4-9E0F-D429364896C5}|Hospital.Core\\Hospital.Core.csproj|solutionrelative:hospital.core\\hospital.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC745B5-2B66-4D20-905B-D83EFB140A00}|HospitalManagement\\HospitalManagement.csproj|c:\\users\\jadha\\downloads\\hospitalmanagement\\hospitalmanagement\\hospitalmanagement\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC745B5-2B66-4D20-905B-D83EFB140A00}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31134A62-EE1F-45D4-9E0F-D429364896C5}|Hospital.Core\\Hospital.Core.csproj|c:\\users\\jadha\\downloads\\hospitalmanagement\\hospitalmanagement\\hospital.core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31134A62-EE1F-45D4-9E0F-D429364896C5}|Hospital.Core\\Hospital.Core.csproj|solutionrelative:hospital.core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC745B5-2B66-4D20-905B-D83EFB140A00}|HospitalManagement\\HospitalManagement.csproj|c:\\users\\jadha\\downloads\\hospitalmanagement\\hospitalmanagement\\hospitalmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0DC745B5-2B66-4D20-905B-D83EFB140A00}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8970ED-6453-49D4-A4C2-B9F84DF19732}|Hospital.Model\\Hospital.Model.csproj|c:\\users\\jadha\\downloads\\hospitalmanagement\\hospitalmanagement\\hospital.model\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A8970ED-6453-49D4-A4C2-B9F84DF19732}|Hospital.Model\\Hospital.Model.csproj|solutionrelative:hospital.model\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8970ED-6453-49D4-A4C2-B9F84DF19732}|Hospital.Model\\Hospital.Model.csproj|c:\\users\\jadha\\downloads\\hospitalmanagement\\hospitalmanagement\\hospital.model\\sql_script\\sqlquery15.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+>>>>>>> c8db80d44221fdc22a2c77216cdc6d94e6609b6b
+      "RelativeMoniker": "D:0:0:{6A8970ED-6453-49D4-A4C2-B9F84DF19732}|Hospital.Model\\Hospital.Model.csproj|solutionrelative:hospital.model\\sql_script\\sqlquery15.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 2,
+              "Title": "SQLQuery15.sql ",
+              "DocumentMoniker": "C:\\Users\\jadha\\Downloads\\HospitalManagement1\\HospitalManagement\\HospitalManagement\\Hospital.Model\\SQL_Script\\SQLQuery15.sql",
+              "RelativeDocumentMoniker": "Hospital.Model\\SQL_Script\\SQLQuery15.sql",
+              "ToolTip": "C:\\Users\\jadha\\Downloads\\HospitalManagement1\\HospitalManagement\\HospitalManagement\\Hospital.Model\\SQL_Script\\SQLQuery15.sql",
+              "RelativeToolTip": "Hospital.Model\\SQL_Script\\SQLQuery15.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-18T12:40:00.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IReportService.cs",
+              "DocumentMoniker": "C:\\Users\\jadha\\Downloads\\HospitalManagement1\\HospitalManagement\\HospitalManagement\\Hospital.Core\\Service\\IReportService.cs",
+              "RelativeDocumentMoniker": "Hospital.Core\\Service\\IReportService.cs",
+              "ToolTip": "C:\\Users\\jadha\\Downloads\\HospitalManagement1\\HospitalManagement\\HospitalManagement\\Hospital.Core\\Service\\IReportService.cs",
+              "RelativeToolTip": "Hospital.Core\\Service\\IReportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T11:45:20.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\jadha\\Downloads\\HospitalManagement1\\HospitalManagement\\HospitalManagement\\Hospital.Core\\Service\\IUserService.cs",
+              "RelativeDocumentMoniker": "Hospital.Core\\Service\\IUserService.cs",
+              "ToolTip": "C:\\Users\\jadha\\Downloads\\HospitalManagement1\\HospitalManagement\\HospitalManagement\\Hospital.Core\\Service\\IUserService.cs",
+              "RelativeToolTip": "Hospital.Core\\Service\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T07:09:44.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PatientService.cs",
+              "DocumentMoniker": "C:\\Users\\jadha\\Downloads\\HospitalManagement1\\HospitalManagement\\HospitalManagement\\Hospital.Core\\Service\\PatientService.cs",
+              "RelativeDocumentMoniker": "Hospital.Core\\Service\\PatientService.cs",
+              "ToolTip": "C:\\Users\\jadha\\Downloads\\HospitalManagement1\\HospitalManagement\\HospitalManagement\\Hospital.Core\\Service\\PatientService.cs",
+              "RelativeToolTip": "Hospital.Core\\Service\\PatientService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwIIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:53:50.313Z",
+=======
+              "DocumentIndex": 0,
+              "Title": "SQLQuery15.sql ",
+              "DocumentMoniker": "C:\\Users\\jadha\\Downloads\\HospitalManagement\\HospitalManagement\\Hospital.Model\\SQL_Script\\SQLQuery15.sql",
+              "RelativeDocumentMoniker": "Hospital.Model\\SQL_Script\\SQLQuery15.sql",
+              "ToolTip": "C:\\Users\\jadha\\Downloads\\HospitalManagement\\HospitalManagement\\Hospital.Model\\SQL_Script\\SQLQuery15.sql",
+              "RelativeToolTip": "Hospital.Model\\SQL_Script\\SQLQuery15.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-18T12:40:00.86Z",
+>>>>>>> c8db80d44221fdc22a2c77216cdc6d94e6609b6b
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IPatientService.cs",
+              "DocumentMoniker": "C:\\Users\\jadha\\Downloads\\HospitalManagement\\HospitalManagement\\Hospital.Core\\Service\\IPatientService.cs",
+              "RelativeDocumentMoniker": "Hospital.Core\\Service\\IPatientService.cs",
+              "ToolTip": "C:\\Users\\jadha\\Downloads\\HospitalManagement\\HospitalManagement\\Hospital.Core\\Service\\IPatientService.cs",
+              "RelativeToolTip": "Hospital.Core\\Service\\IPatientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:52:59.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IReportService.cs",
+              "DocumentMoniker": "C:\\Users\\jadha\\Downloads\\HospitalManagement\\HospitalManagement\\Hospital.Core\\Service\\IReportService.cs",
+              "RelativeDocumentMoniker": "Hospital.Core\\Service\\IReportService.cs",
+              "ToolTip": "C:\\Users\\jadha\\Downloads\\HospitalManagement\\HospitalManagement\\Hospital.Core\\Service\\IReportService.cs",
+              "RelativeToolTip": "Hospital.Core\\Service\\IReportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T11:45:20.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+<<<<<<< HEAD
+              "Title": "ReportService.cs",
+              "DocumentMoniker": "C:\\Users\\jadha\\Downloads\\HospitalManagement1\\HospitalManagement\\HospitalManagement\\Hospital.Core\\Service\\ReportService.cs",
+              "RelativeDocumentMoniker": "Hospital.Core\\Service\\ReportService.cs",
+              "ToolTip": "C:\\Users\\jadha\\Downloads\\HospitalManagement1\\HospitalManagement\\HospitalManagement\\Hospital.Core\\Service\\ReportService.cs",
+=======
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\jadha\\Downloads\\HospitalManagement\\HospitalManagement\\Hospital.Core\\Service\\IUserService.cs",
+              "RelativeDocumentMoniker": "Hospital.Core\\Service\\IUserService.cs",
+              "ToolTip": "C:\\Users\\jadha\\Downloads\\HospitalManagement\\HospitalManagement\\Hospital.Core\\Service\\IUserService.cs",
+              "RelativeToolTip": "Hospital.Core\\Service\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T07:09:44.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PatientService.cs",
+              "DocumentMoniker": "C:\\Users\\jadha\\Downloads\\HospitalManagement\\HospitalManagement\\Hospital.Core\\Service\\PatientService.cs",
+              "RelativeDocumentMoniker": "Hospital.Core\\Service\\PatientService.cs",
+              "ToolTip": "C:\\Users\\jadha\\Downloads\\HospitalManagement\\HospitalManagement\\Hospital.Core\\Service\\PatientService.cs",
+              "RelativeToolTip": "Hospital.Core\\Service\\PatientService.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAowIIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:53:50.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReportService.cs",
+              "DocumentMoniker": "C:\\Users\\jadha\\Downloads\\HospitalManagement\\HospitalManagement\\Hospital.Core\\Service\\ReportService.cs",
+              "RelativeDocumentMoniker": "Hospital.Core\\Service\\ReportService.cs",
+              "ToolTip": "C:\\Users\\jadha\\Downloads\\HospitalManagement\\HospitalManagement\\Hospital.Core\\Service\\ReportService.cs",
+>>>>>>> c8db80d44221fdc22a2c77216cdc6d94e6609b6b
+              "RelativeToolTip": "Hospital.Core\\Service\\ReportService.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T12:06:22.686Z"
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 0,
+=======
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\jadha\\Downloads\\HospitalManagement\\HospitalManagement\\Hospital.Core\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "Hospital.Core\\Service\\UserService.cs",
+              "ToolTip": "C:\\Users\\jadha\\Downloads\\HospitalManagement\\HospitalManagement\\Hospital.Core\\Service\\UserService.cs",
+              "RelativeToolTip": "Hospital.Core\\Service\\UserService.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAADwvx8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T07:11:07.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IHospitalModalityService.cs",
+              "DocumentMoniker": "C:\\Users\\jadha\\Downloads\\HospitalManagement\\HospitalManagement\\Hospital.Core\\Service\\IHospitalModalityService.cs",
+              "RelativeDocumentMoniker": "Hospital.Core\\Service\\IHospitalModalityService.cs",
+              "ToolTip": "C:\\Users\\jadha\\Downloads\\HospitalManagement\\HospitalManagement\\Hospital.Core\\Service\\IHospitalModalityService.cs",
+              "RelativeToolTip": "Hospital.Core\\Service\\IHospitalModalityService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvwwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T09:36:14.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HospitalModalityService.cs",
+              "DocumentMoniker": "C:\\Users\\jadha\\Downloads\\HospitalManagement\\HospitalManagement\\Hospital.Core\\Service\\HospitalModalityService.cs",
+              "RelativeDocumentMoniker": "Hospital.Core\\Service\\HospitalModalityService.cs",
+              "ToolTip": "C:\\Users\\jadha\\Downloads\\HospitalManagement\\HospitalManagement\\Hospital.Core\\Service\\HospitalModalityService.cs",
+              "RelativeToolTip": "Hospital.Core\\Service\\HospitalModalityService.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowEIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T09:37:00.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\jadha\\Downloads\\HospitalManagement\\HospitalManagement\\HospitalManagement\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\jadha\\Downloads\\HospitalManagement\\HospitalManagement\\HospitalManagement\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "HospitalManagement\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwCwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T07:13:28.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReportController.cs",
+              "DocumentMoniker": "C:\\Users\\jadha\\Downloads\\HospitalManagement\\HospitalManagement\\HospitalManagement\\Controllers\\ReportController.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\Controllers\\ReportController.cs",
+              "ToolTip": "C:\\Users\\jadha\\Downloads\\HospitalManagement\\HospitalManagement\\HospitalManagement\\Controllers\\ReportController.cs",
+              "RelativeToolTip": "HospitalManagement\\Controllers\\ReportController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T12:11:31.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+>>>>>>> c8db80d44221fdc22a2c77216cdc6d94e6609b6b
+              "Title": "PatientsController.cs",
+              "DocumentMoniker": "C:\\Users\\jadha\\Downloads\\HospitalManagement1\\HospitalManagement\\HospitalManagement\\HospitalManagement\\Controllers\\PatientsController.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\Controllers\\PatientsController.cs",
+              "ToolTip": "C:\\Users\\jadha\\Downloads\\HospitalManagement1\\HospitalManagement\\HospitalManagement\\HospitalManagement\\Controllers\\PatientsController.cs",
+              "RelativeToolTip": "HospitalManagement\\Controllers\\PatientsController.cs",
+<<<<<<< HEAD
+              "ViewState": "AgIAAB4AAAAAAAAAAAAmwCoAAABEAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwCoAAABEAAAAAAAAAA==",
+>>>>>>> c8db80d44221fdc22a2c77216cdc6d94e6609b6b
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:56:40.733Z"
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 7,
+              "Title": "IPatientService.cs",
+              "DocumentMoniker": "C:\\Users\\jadha\\Downloads\\HospitalManagement1\\HospitalManagement\\HospitalManagement\\Hospital.Core\\Service\\IPatientService.cs",
+              "RelativeDocumentMoniker": "Hospital.Core\\Service\\IPatientService.cs",
+              "ToolTip": "C:\\Users\\jadha\\Downloads\\HospitalManagement1\\HospitalManagement\\HospitalManagement\\Hospital.Core\\Service\\IPatientService.cs",
+              "RelativeToolTip": "Hospital.Core\\Service\\IPatientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:52:59.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\jadha\\Downloads\\HospitalManagement1\\HospitalManagement\\HospitalManagement\\Hospital.Core\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "Hospital.Core\\Service\\UserService.cs",
+              "ToolTip": "C:\\Users\\jadha\\Downloads\\HospitalManagement1\\HospitalManagement\\HospitalManagement\\Hospital.Core\\Service\\UserService.cs",
+              "RelativeToolTip": "Hospital.Core\\Service\\UserService.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAADwvx8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T07:11:07.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IHospitalModalityService.cs",
+              "DocumentMoniker": "C:\\Users\\jadha\\Downloads\\HospitalManagement1\\HospitalManagement\\HospitalManagement\\Hospital.Core\\Service\\IHospitalModalityService.cs",
+              "RelativeDocumentMoniker": "Hospital.Core\\Service\\IHospitalModalityService.cs",
+              "ToolTip": "C:\\Users\\jadha\\Downloads\\HospitalManagement1\\HospitalManagement\\HospitalManagement\\Hospital.Core\\Service\\IHospitalModalityService.cs",
+              "RelativeToolTip": "Hospital.Core\\Service\\IHospitalModalityService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvwwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T09:36:14.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HospitalModalityService.cs",
+              "DocumentMoniker": "C:\\Users\\jadha\\Downloads\\HospitalManagement1\\HospitalManagement\\HospitalManagement\\Hospital.Core\\Service\\HospitalModalityService.cs",
+              "RelativeDocumentMoniker": "Hospital.Core\\Service\\HospitalModalityService.cs",
+              "ToolTip": "C:\\Users\\jadha\\Downloads\\HospitalManagement1\\HospitalManagement\\HospitalManagement\\Hospital.Core\\Service\\HospitalModalityService.cs",
+              "RelativeToolTip": "Hospital.Core\\Service\\HospitalModalityService.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowEIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T09:37:00.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\jadha\\Downloads\\HospitalManagement1\\HospitalManagement\\HospitalManagement\\HospitalManagement\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\jadha\\Downloads\\HospitalManagement1\\HospitalManagement\\HospitalManagement\\HospitalManagement\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "HospitalManagement\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwCwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T07:13:28.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ReportController.cs",
+              "DocumentMoniker": "C:\\Users\\jadha\\Downloads\\HospitalManagement1\\HospitalManagement\\HospitalManagement\\HospitalManagement\\Controllers\\ReportController.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\Controllers\\ReportController.cs",
+              "ToolTip": "C:\\Users\\jadha\\Downloads\\HospitalManagement1\\HospitalManagement\\HospitalManagement\\HospitalManagement\\Controllers\\ReportController.cs",
+              "RelativeToolTip": "HospitalManagement\\Controllers\\ReportController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T12:11:31.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HospitalModalityController.cs",
+              "DocumentMoniker": "C:\\Users\\jadha\\Downloads\\HospitalManagement1\\HospitalManagement\\HospitalManagement\\HospitalManagement\\Controllers\\HospitalModalityController.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\Controllers\\HospitalModalityController.cs",
+              "ToolTip": "C:\\Users\\jadha\\Downloads\\HospitalManagement1\\HospitalManagement\\HospitalManagement\\HospitalManagement\\Controllers\\HospitalModalityController.cs",
+              "RelativeToolTip": "HospitalManagement\\Controllers\\HospitalModalityController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T10:13:32.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\jadha\\Downloads\\HospitalManagement1\\HospitalManagement\\HospitalManagement\\HospitalManagement\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\jadha\\Downloads\\HospitalManagement1\\HospitalManagement\\HospitalManagement\\HospitalManagement\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "HospitalManagement\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwBwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T05:50:42.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreatePatientDto.cs",
+              "DocumentMoniker": "C:\\Users\\jadha\\Downloads\\HospitalManagement1\\HospitalManagement\\HospitalManagement\\Hospital.Model\\Dto\\CreatePatientDto.cs",
+              "RelativeDocumentMoniker": "Hospital.Model\\Dto\\CreatePatientDto.cs",
+              "ToolTip": "C:\\Users\\jadha\\Downloads\\HospitalManagement1\\HospitalManagement\\HospitalManagement\\Hospital.Model\\Dto\\CreatePatientDto.cs",
+              "RelativeToolTip": "Hospital.Model\\Dto\\CreatePatientDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T08:57:33.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PatientDto.cs",
+              "DocumentMoniker": "C:\\Users\\jadha\\Downloads\\HospitalManagement1\\HospitalManagement\\HospitalManagement\\Hospital.Model\\Dto\\PatientDto.cs",
+              "RelativeDocumentMoniker": "Hospital.Model\\Dto\\PatientDto.cs",
+              "ToolTip": "C:\\Users\\jadha\\Downloads\\HospitalManagement1\\HospitalManagement\\HospitalManagement\\Hospital.Model\\Dto\\PatientDto.cs",
+              "RelativeToolTip": "Hospital.Model\\Dto\\PatientDto.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:55:05.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\jadha\\Downloads\\HospitalManagement1\\HospitalManagement\\HospitalManagement\\Hospital.Model\\Model\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "Hospital.Model\\Model\\DatabaseContext.cs",
+              "ToolTip": "C:\\Users\\jadha\\Downloads\\HospitalManagement1\\HospitalManagement\\HospitalManagement\\Hospital.Model\\Model\\DatabaseContext.cs",
+              "RelativeToolTip": "Hospital.Model\\Model\\DatabaseContext.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAADwvysAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T09:38:53.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\jadha\\Downloads\\HospitalManagement1\\HospitalManagement\\HospitalManagement\\Hospital.Model\\Model\\Login.cs",
+              "RelativeDocumentMoniker": "Hospital.Model\\Model\\Login.cs",
+              "ToolTip": "C:\\Users\\jadha\\Downloads\\HospitalManagement1\\HospitalManagement\\HospitalManagement\\Hospital.Model\\Model\\Login.cs",
+              "RelativeToolTip": "Hospital.Model\\Model\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T05:51:45.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\jadha\\Downloads\\HospitalManagement1\\HospitalManagement\\HospitalManagement\\Hospital.Model\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Hospital.Model\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\jadha\\Downloads\\HospitalManagement1\\HospitalManagement\\HospitalManagement\\Hospital.Model\\Model\\User.cs",
+              "RelativeToolTip": "Hospital.Model\\Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T04:52:14.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ReportDto.cs",
+              "DocumentMoniker": "C:\\Users\\jadha\\Downloads\\HospitalManagement1\\HospitalManagement\\HospitalManagement\\Hospital.Model\\Dto\\ReportDto.cs",
+              "RelativeDocumentMoniker": "Hospital.Model\\Dto\\ReportDto.cs",
+              "ToolTip": "C:\\Users\\jadha\\Downloads\\HospitalManagement1\\HospitalManagement\\HospitalManagement\\Hospital.Model\\Dto\\ReportDto.cs",
+              "RelativeToolTip": "Hospital.Model\\Dto\\ReportDto.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T11:52:17.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jadha\\Downloads\\HospitalManagement1\\HospitalManagement\\HospitalManagement\\HospitalManagement\\Program.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\jadha\\Downloads\\HospitalManagement1\\HospitalManagement\\HospitalManagement\\HospitalManagement\\Program.cs",
+              "RelativeToolTip": "HospitalManagement\\Program.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAowC8AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T13:36:25.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HospitalDto.cs",
+              "DocumentMoniker": "C:\\Users\\jadha\\Downloads\\HospitalManagement1\\HospitalManagement\\HospitalManagement\\Hospital.Model\\Dto\\HospitalDto.cs",
+              "RelativeDocumentMoniker": "Hospital.Model\\Dto\\HospitalDto.cs",
+              "ToolTip": "C:\\Users\\jadha\\Downloads\\HospitalManagement1\\HospitalManagement\\HospitalManagement\\Hospital.Model\\Dto\\HospitalDto.cs",
+              "RelativeToolTip": "Hospital.Model\\Dto\\HospitalDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T10:14:39.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Hospital.Model.csproj",
+              "DocumentMoniker": "C:\\Users\\jadha\\Downloads\\HospitalManagement1\\HospitalManagement\\HospitalManagement\\Hospital.Model\\Hospital.Model.csproj",
+              "RelativeDocumentMoniker": "Hospital.Model\\Hospital.Model.csproj",
+              "ToolTip": "C:\\Users\\jadha\\Downloads\\HospitalManagement1\\HospitalManagement\\HospitalManagement\\Hospital.Model\\Hospital.Model.csproj",
+              "RelativeToolTip": "Hospital.Model\\Hospital.Model.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-13T12:27:27.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Hospital.Core.csproj",
+              "DocumentMoniker": "C:\\Users\\jadha\\Downloads\\HospitalManagement1\\HospitalManagement\\HospitalManagement\\Hospital.Core\\Hospital.Core.csproj",
+              "RelativeDocumentMoniker": "Hospital.Core\\Hospital.Core.csproj",
+              "ToolTip": "C:\\Users\\jadha\\Downloads\\HospitalManagement1\\HospitalManagement\\HospitalManagement\\Hospital.Core\\Hospital.Core.csproj",
+              "RelativeToolTip": "Hospital.Core\\Hospital.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-12T13:29:09.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "JwtTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\jadha\\Downloads\\HospitalManagement1\\HospitalManagement\\HospitalManagement\\HospitalManagement\\JwtTokenService.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\JwtTokenService.cs",
+              "ToolTip": "C:\\Users\\jadha\\Downloads\\HospitalManagement1\\HospitalManagement\\HospitalManagement\\HospitalManagement\\JwtTokenService.cs",
+              "RelativeToolTip": "HospitalManagement\\JwtTokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T05:48:01.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+=======
+              "DocumentIndex": 12,
+              "Title": "HospitalModalityController.cs",
+              "DocumentMoniker": "C:\\Users\\jadha\\Downloads\\HospitalManagement\\HospitalManagement\\HospitalManagement\\Controllers\\HospitalModalityController.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\Controllers\\HospitalModalityController.cs",
+              "ToolTip": "C:\\Users\\jadha\\Downloads\\HospitalManagement\\HospitalManagement\\HospitalManagement\\Controllers\\HospitalModalityController.cs",
+              "RelativeToolTip": "HospitalManagement\\Controllers\\HospitalModalityController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T10:13:32.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\jadha\\Downloads\\HospitalManagement\\HospitalManagement\\HospitalManagement\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\jadha\\Downloads\\HospitalManagement\\HospitalManagement\\HospitalManagement\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "HospitalManagement\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwBwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T05:50:42.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreatePatientDto.cs",
+              "DocumentMoniker": "C:\\Users\\jadha\\Downloads\\HospitalManagement\\HospitalManagement\\Hospital.Model\\Dto\\CreatePatientDto.cs",
+              "RelativeDocumentMoniker": "Hospital.Model\\Dto\\CreatePatientDto.cs",
+              "ToolTip": "C:\\Users\\jadha\\Downloads\\HospitalManagement\\HospitalManagement\\Hospital.Model\\Dto\\CreatePatientDto.cs",
+              "RelativeToolTip": "Hospital.Model\\Dto\\CreatePatientDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T08:57:33.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PatientDto.cs",
+              "DocumentMoniker": "C:\\Users\\jadha\\Downloads\\HospitalManagement\\HospitalManagement\\Hospital.Model\\Dto\\PatientDto.cs",
+              "RelativeDocumentMoniker": "Hospital.Model\\Dto\\PatientDto.cs",
+              "ToolTip": "C:\\Users\\jadha\\Downloads\\HospitalManagement\\HospitalManagement\\Hospital.Model\\Dto\\PatientDto.cs",
+              "RelativeToolTip": "Hospital.Model\\Dto\\PatientDto.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:55:05.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\jadha\\Downloads\\HospitalManagement\\HospitalManagement\\Hospital.Model\\Model\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "Hospital.Model\\Model\\DatabaseContext.cs",
+              "ToolTip": "C:\\Users\\jadha\\Downloads\\HospitalManagement\\HospitalManagement\\Hospital.Model\\Model\\DatabaseContext.cs",
+              "RelativeToolTip": "Hospital.Model\\Model\\DatabaseContext.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAADwvysAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T09:38:53.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\jadha\\Downloads\\HospitalManagement\\HospitalManagement\\Hospital.Model\\Model\\Login.cs",
+              "RelativeDocumentMoniker": "Hospital.Model\\Model\\Login.cs",
+              "ToolTip": "C:\\Users\\jadha\\Downloads\\HospitalManagement\\HospitalManagement\\Hospital.Model\\Model\\Login.cs",
+              "RelativeToolTip": "Hospital.Model\\Model\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T05:51:45.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\jadha\\Downloads\\HospitalManagement\\HospitalManagement\\Hospital.Model\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Hospital.Model\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\jadha\\Downloads\\HospitalManagement\\HospitalManagement\\Hospital.Model\\Model\\User.cs",
+              "RelativeToolTip": "Hospital.Model\\Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T04:52:14.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ReportDto.cs",
+              "DocumentMoniker": "C:\\Users\\jadha\\Downloads\\HospitalManagement\\HospitalManagement\\Hospital.Model\\Dto\\ReportDto.cs",
+              "RelativeDocumentMoniker": "Hospital.Model\\Dto\\ReportDto.cs",
+              "ToolTip": "C:\\Users\\jadha\\Downloads\\HospitalManagement\\HospitalManagement\\Hospital.Model\\Dto\\ReportDto.cs",
+              "RelativeToolTip": "Hospital.Model\\Dto\\ReportDto.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T11:52:17.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jadha\\Downloads\\HospitalManagement\\HospitalManagement\\HospitalManagement\\Program.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\jadha\\Downloads\\HospitalManagement\\HospitalManagement\\HospitalManagement\\Program.cs",
+              "RelativeToolTip": "HospitalManagement\\Program.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAowC8AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T13:36:25.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HospitalDto.cs",
+              "DocumentMoniker": "C:\\Users\\jadha\\Downloads\\HospitalManagement\\HospitalManagement\\Hospital.Model\\Dto\\HospitalDto.cs",
+              "RelativeDocumentMoniker": "Hospital.Model\\Dto\\HospitalDto.cs",
+              "ToolTip": "C:\\Users\\jadha\\Downloads\\HospitalManagement\\HospitalManagement\\Hospital.Model\\Dto\\HospitalDto.cs",
+              "RelativeToolTip": "Hospital.Model\\Dto\\HospitalDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T10:14:39.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Hospital.Model.csproj",
+              "DocumentMoniker": "C:\\Users\\jadha\\Downloads\\HospitalManagement\\HospitalManagement\\Hospital.Model\\Hospital.Model.csproj",
+              "RelativeDocumentMoniker": "Hospital.Model\\Hospital.Model.csproj",
+              "ToolTip": "C:\\Users\\jadha\\Downloads\\HospitalManagement\\HospitalManagement\\Hospital.Model\\Hospital.Model.csproj",
+              "RelativeToolTip": "Hospital.Model\\Hospital.Model.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-13T12:27:27.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Hospital.Core.csproj",
+              "DocumentMoniker": "C:\\Users\\jadha\\Downloads\\HospitalManagement\\HospitalManagement\\Hospital.Core\\Hospital.Core.csproj",
+              "RelativeDocumentMoniker": "Hospital.Core\\Hospital.Core.csproj",
+              "ToolTip": "C:\\Users\\jadha\\Downloads\\HospitalManagement\\HospitalManagement\\Hospital.Core\\Hospital.Core.csproj",
+              "RelativeToolTip": "Hospital.Core\\Hospital.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-12T13:29:09.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "JwtTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\jadha\\Downloads\\HospitalManagement\\HospitalManagement\\HospitalManagement\\JwtTokenService.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\JwtTokenService.cs",
+              "ToolTip": "C:\\Users\\jadha\\Downloads\\HospitalManagement\\HospitalManagement\\HospitalManagement\\JwtTokenService.cs",
+              "RelativeToolTip": "HospitalManagement\\JwtTokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T05:48:01.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jadha\\Downloads\\HospitalManagement\\HospitalManagement\\Hospital.Core\\Program.cs",
+              "RelativeDocumentMoniker": "Hospital.Core\\Program.cs",
+              "ToolTip": "C:\\Users\\jadha\\Downloads\\HospitalManagement\\HospitalManagement\\Hospital.Core\\Program.cs",
+              "RelativeToolTip": "Hospital.Core\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T13:25:32.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jadha\\Downloads\\HospitalManagement\\HospitalManagement\\HospitalManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "HospitalManagement\\appsettings.json",
+              "ToolTip": "C:\\Users\\jadha\\Downloads\\HospitalManagement\\HospitalManagement\\HospitalManagement\\appsettings.json",
+              "RelativeToolTip": "HospitalManagement\\appsettings.json",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-12T16:29:50.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+>>>>>>> c8db80d44221fdc22a2c77216cdc6d94e6609b6b
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jadha\\Downloads\\HospitalManagement1\\HospitalManagement\\HospitalManagement\\Hospital.Core\\Program.cs",
+              "RelativeDocumentMoniker": "Hospital.Core\\Program.cs",
+              "ToolTip": "C:\\Users\\jadha\\Downloads\\HospitalManagement1\\HospitalManagement\\HospitalManagement\\Hospital.Core\\Program.cs",
+              "RelativeToolTip": "Hospital.Core\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T13:25:32.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jadha\\Downloads\\HospitalManagement1\\HospitalManagement\\HospitalManagement\\HospitalManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "HospitalManagement\\appsettings.json",
+              "ToolTip": "C:\\Users\\jadha\\Downloads\\HospitalManagement1\\HospitalManagement\\HospitalManagement\\HospitalManagement\\appsettings.json",
+              "RelativeToolTip": "HospitalManagement\\appsettings.json",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-12T16:29:50.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jadha\\Downloads\\HospitalManagement1\\HospitalManagement\\HospitalManagement\\Hospital.Model\\Program.cs",
+              "RelativeDocumentMoniker": "Hospital.Model\\Program.cs",
+              "ToolTip": "C:\\Users\\jadha\\Downloads\\HospitalManagement1\\HospitalManagement\\HospitalManagement\\Hospital.Model\\Program.cs",
+              "RelativeToolTip": "Hospital.Model\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T13:26:24.895Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
